@@ -21,9 +21,14 @@ Instead of tracking token prices, this analysis focuses on actual network utilit
 * `layer2_macro_economics.sql`: Advanced SQL query to extract and aggregate raw block data from Dune Analytics.
 * `layer2_dashboard.py`: Python script utilizing `dune-client` and `pandas` for data wrangling, and `matplotlib` for generating a dual-axis visualization.
 * `base_l2_macro_dashboard.png`: The output visualization correlating User Growth (DAU) with Network Revenue.
+  
 
 ## 🚀 How to Reproduce
 1. Clone this repository.
 2. Install the required Python packages:
    ```bash
    pip install pandas matplotlib dune-client
+
+<img width="2159" height="1105" alt="image (4)" src="https://github.com/user-attachments/assets/09daa773-40da-46bd-9c3b-da7153495854" />
+
+   
